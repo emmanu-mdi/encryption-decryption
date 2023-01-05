@@ -11,6 +11,6 @@ Privacy is an important matter in the realm of the Internet. When sending a mess
 3. **Decrypted** -> Encrypting a message is only half of the deal: now learn to decrypt it as well, using a standard Unicode table
 4. **I command you** -> Practice working with the command line, using it for passing the mode, the key and the string.
 5. **X-files** -> Work with files: learn to store your data in a file.
-6. **Choice, choice -> Add the possibility to choose a specific encryption algorithm: Ceasar or Unicode.
+6. **Choice, choice** -> Add the possibility to choose a specific encryption algorithm: Ceasar or Unicode.
 
 
